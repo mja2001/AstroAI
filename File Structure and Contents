@@ -1,0 +1,8 @@
+ astroai/
+├── README.md
+├── app.py                 # Main Streamlit app
+├── simulator.py           # Light curve simulation logic
+├── model.py               # PyTorch neural network model
+├── requirements.txt       # Dependencies
+└── assets/                # Optional folder for images/logos
+    └── logo.png           # Placeholder; add your own or generate one
