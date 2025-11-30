@@ -1,8 +1,6 @@
 # AstroAI
-AI-Powered Exoplanet Detection Simulator
-# AstroAI: AI-Powered Exoplanet Detection Simulator
 
-![AstroAI Logo](assets/logo.png)
+# AstroAI: AI-Powered Exoplanet Detection Simulator
 
 ## Overview
 AstroAI is an interactive tool that simulates exoplanet detection using synthetic telescope data and AI. Built for the IEEE Quarterly Projects Fall 2025 challenge (theme: "space"), it generates light curves from planetary transits, adds noise, and uses a neural network to detect candidates. It's educational, with tutorials on astrophysics concepts.
